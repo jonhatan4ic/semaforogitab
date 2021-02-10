@@ -9,5 +9,9 @@
  * @author Diurno
  */
 public class HOLA2 {
-    
+       public Hola2()
+       {
+           String gracias = "gracias";
+           System.out.println(gracias);
+       }
 }
