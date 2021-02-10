@@ -14,4 +14,5 @@ public class Main {
     private int y;
     private String hola;
     private String adios;
+    private String prueba;
 }
