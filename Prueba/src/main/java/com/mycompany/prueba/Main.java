@@ -12,4 +12,5 @@ package com.mycompany.prueba;
 public class Main {
     private int x;
     private int y;
+    private String hola;
 }
