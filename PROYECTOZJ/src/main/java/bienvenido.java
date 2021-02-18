@@ -9,5 +9,10 @@
  * @author Diurno
  */
 public class bienvenido {
-    string hola; 
+    private String hola; 
+
+    public bienvenido() {
+        this.hola = "En la vida hay amores";
+        System.out.println(hola);
+    }
 }
