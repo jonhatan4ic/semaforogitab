@@ -22,11 +22,11 @@ public class ordenador {
 		Random randomGenerator = new Random();
 		int randomInt = randomGenerator.nextInt(3);
 		if (randomInt == 0) {
-			return "rojo";
+			return "verde";
 		} else if (randomInt == 1) {
 			return "amarillo";
 		} else {
-			return "verde";
+			return "rojo";
 		}
 	}
 }
