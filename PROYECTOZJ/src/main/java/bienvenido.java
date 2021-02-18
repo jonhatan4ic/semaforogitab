@@ -10,7 +10,7 @@
  */
 public class bienvenido {
     private String hola; 
-
+    private String prueba;
     public bienvenido() {
         this.hola = "En la vida hay amores";
         System.out.println(hola);
