@@ -24,6 +24,7 @@ public class estudiante extends persona {
 		i_Edad = EdadX;
 		s_Nombre = sNombre;
 		i_Curso = iCurso;
+                double cara = 3.4;
 	}
 	
 	/**
