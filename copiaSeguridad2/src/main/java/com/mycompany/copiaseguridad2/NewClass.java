@@ -13,5 +13,6 @@ public class NewClass {
     public NewClass()
     {
         String embudo;
+        int cuatro;
     }
 }
