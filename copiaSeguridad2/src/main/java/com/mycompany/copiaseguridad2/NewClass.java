@@ -14,5 +14,6 @@ public class NewClass {
     {
         String embudo;
         int cuatro;
+        int variableX;
     }
 }
