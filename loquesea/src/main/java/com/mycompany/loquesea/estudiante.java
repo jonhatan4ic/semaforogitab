@@ -16,12 +16,12 @@ public class estudiante extends persona {
 	
 	/**
 	 * Constructor que inicializa los parametros de clase de los alumnos 
-	 * @param iEdad Edad del alumno
+	 * @param EdadX Edad del alumno
 	 * @param sNombre Nombre del alumno
 	 * @param iCurso Curso del alumno
 	 */
-	public estudiante(int iEdad, String sNombre, int iCurso) {
-		i_Edad = iEdad;
+	public estudiante(int EdadX, String sNombre, int iCurso) {
+		i_Edad = EdadX;
 		s_Nombre = sNombre;
 		i_Curso = iCurso;
 	}
